@@ -1,0 +1,5 @@
+{
+  "id": "install_type",
+  "redhat": "rpm",
+  "ubuntu": "deb"
+}
